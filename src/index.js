@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './tailwind.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+// See https://youtu.be/mACw_G-okPE for original tutorial
 
 ReactDOM.render(
   <React.StrictMode>
